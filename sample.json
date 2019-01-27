@@ -1,0 +1,58 @@
+[
+    {
+      "name": "Vargas Nicholson",
+      "gender": "male",
+      "company": "TERAPRENE",
+      "email": "vargasnicholson@teraprene.com",
+      "phone": "+1 (885) 550-3609",
+      "address": "255 Plymouth Street, Kennedyville, Vermont, 1460"
+    },
+    {
+      "name": "Lenora Reyes",
+      "gender": "female",
+      "company": "ANIVET",
+      "email": "lenorareyes@anivet.com",
+      "phone": "+1 (979) 538-3403",
+      "address": "856 Kensington Walk, Hessville, Arizona, 1933"
+    },
+    {
+      "name": "Charity Hodge",
+      "gender": "female",
+      "company": "GEEKMOSIS",
+      "email": "charityhodge@geekmosis.com",
+      "phone": "+1 (894) 585-3807",
+      "address": "138 Hendrix Street, Needmore, California, 2866"
+    },
+    {
+      "name": "Berta Young",
+      "gender": "female",
+      "company": "FARMAGE",
+      "email": "bertayoung@farmage.com",
+      "phone": "+1 (874) 473-3129",
+      "address": "530 Noble Street, Sylvanite, Kentucky, 4186"
+    },
+    {
+      "name": "Elliott Frye",
+      "gender": "male",
+      "company": "MARQET",
+      "email": "elliottfrye@marqet.com",
+      "phone": "+1 (856) 562-2538",
+      "address": "701 Legion Street, Caberfae, North Carolina, 5610"
+    },
+    {
+      "name": "Sasha Harvey",
+      "gender": "female",
+      "company": "EXOTECHNO",
+      "email": "sashaharvey@exotechno.com",
+      "phone": "+1 (887) 464-2372",
+      "address": "960 School Lane, Curtice, South Dakota, 7628"
+    },
+    {
+      "name": "Gena Simpson",
+      "gender": "female",
+      "company": "APPLIDEC",
+      "email": "genasimpson@applidec.com",
+      "phone": "+1 (866) 589-3826",
+      "address": "128 Harrison Place, Marysville, Georgia, 7926"
+    }
+  ]
